@@ -1,0 +1,12 @@
+#Python Language
+Oops Concept
+
+# Data Analysis
+
+# Feature Selection
+
+# Choose Machine Learning Model
+
+# Apply Machine Learning Model
+
+# Test Accuracy/results of ML Model
